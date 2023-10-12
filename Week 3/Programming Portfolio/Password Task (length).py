@@ -4,7 +4,7 @@
 # otherwise it should report an error.
 print("Set a password! It must be between 8 and 12 characters long")
 password = input("Enter a password:         ")
-
+print("hello")
 password1 = input("Confirm your password:         ")
 if password == password1:
     print("Password set")
