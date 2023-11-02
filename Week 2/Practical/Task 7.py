@@ -6,4 +6,4 @@ print("Alice Woodard")
 print("Flat 13D, Warehouse, Kirkstall Brewery, Broad Lane, Kirkstall, Leeds, LS53RX")
 print("07597837570")
 name = "alice"
-print("The length of my name is" + str(len(name)))
+print("The length of my name is " + str(len(name)))

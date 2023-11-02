@@ -5,4 +5,3 @@ count = 5"""
 total = 98.2
 count = 5
 average = (total + count) / 2
-print(average)
