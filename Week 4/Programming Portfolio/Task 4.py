@@ -3,4 +3,4 @@ input (it is often a newline). Write and test a function that takes a string par
 and returns it with the last character removed. (If the string contains one or fewer
 characters, return it unchanged.)"""
 string = input("Enter a string:      ")
-print(string[string -1])
+print(string[-1])
